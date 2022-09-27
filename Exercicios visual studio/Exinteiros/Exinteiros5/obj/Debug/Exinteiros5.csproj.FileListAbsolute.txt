@@ -1,0 +1,7 @@
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exinteiros\Exinteiros5\obj\Debug\Exinteiros5.csproj.AssemblyReference.cache
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exinteiros\Exinteiros5\obj\Debug\Exinteiros5.csproj.CoreCompileInputs.cache
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exinteiros\Exinteiros5\bin\Debug\Exinteiros5.exe.config
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exinteiros\Exinteiros5\bin\Debug\Exinteiros5.exe
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exinteiros\Exinteiros5\bin\Debug\Exinteiros5.pdb
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exinteiros\Exinteiros5\obj\Debug\Exinteiros5.exe
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exinteiros\Exinteiros5\obj\Debug\Exinteiros5.pdb

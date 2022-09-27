@@ -1,0 +1,7 @@
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbinarios\Exbinarios\bin\Debug\Exbinarios.exe.config
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbinarios\Exbinarios\bin\Debug\Exbinarios.exe
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbinarios\Exbinarios\bin\Debug\Exbinarios.pdb
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbinarios\Exbinarios\obj\Debug\Exbinarios.csproj.AssemblyReference.cache
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbinarios\Exbinarios\obj\Debug\Exbinarios.csproj.CoreCompileInputs.cache
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbinarios\Exbinarios\obj\Debug\Exbinarios.exe
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbinarios\Exbinarios\obj\Debug\Exbinarios.pdb

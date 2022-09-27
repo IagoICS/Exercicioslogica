@@ -1,0 +1,7 @@
+D:\Tcm edição\Photoshop\Exercicios visual studio\Ex3primos\Ex3primos\bin\Debug\Ex3primos.exe.config
+D:\Tcm edição\Photoshop\Exercicios visual studio\Ex3primos\Ex3primos\bin\Debug\Ex3primos.exe
+D:\Tcm edição\Photoshop\Exercicios visual studio\Ex3primos\Ex3primos\bin\Debug\Ex3primos.pdb
+D:\Tcm edição\Photoshop\Exercicios visual studio\Ex3primos\Ex3primos\obj\Debug\Ex3primos.csproj.AssemblyReference.cache
+D:\Tcm edição\Photoshop\Exercicios visual studio\Ex3primos\Ex3primos\obj\Debug\Ex3primos.csproj.CoreCompileInputs.cache
+D:\Tcm edição\Photoshop\Exercicios visual studio\Ex3primos\Ex3primos\obj\Debug\Ex3primos.exe
+D:\Tcm edição\Photoshop\Exercicios visual studio\Ex3primos\Ex3primos\obj\Debug\Ex3primos.pdb

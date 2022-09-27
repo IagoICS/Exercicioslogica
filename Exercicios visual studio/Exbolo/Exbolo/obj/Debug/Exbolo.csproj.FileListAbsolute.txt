@@ -1,0 +1,7 @@
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbolo\Exbolo\bin\Debug\Exbolo.exe.config
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbolo\Exbolo\bin\Debug\Exbolo.exe
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbolo\Exbolo\bin\Debug\Exbolo.pdb
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbolo\Exbolo\obj\Debug\Exbolo.csproj.AssemblyReference.cache
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbolo\Exbolo\obj\Debug\Exbolo.csproj.CoreCompileInputs.cache
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbolo\Exbolo\obj\Debug\Exbolo.exe
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exbolo\Exbolo\obj\Debug\Exbolo.pdb

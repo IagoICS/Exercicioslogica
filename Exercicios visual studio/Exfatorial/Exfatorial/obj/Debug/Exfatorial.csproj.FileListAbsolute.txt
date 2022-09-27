@@ -1,0 +1,7 @@
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exfatorial\Exfatorial\bin\Debug\Exfatorial.exe.config
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exfatorial\Exfatorial\bin\Debug\Exfatorial.exe
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exfatorial\Exfatorial\bin\Debug\Exfatorial.pdb
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exfatorial\Exfatorial\obj\Debug\Exfatorial.csproj.AssemblyReference.cache
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exfatorial\Exfatorial\obj\Debug\Exfatorial.csproj.CoreCompileInputs.cache
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exfatorial\Exfatorial\obj\Debug\Exfatorial.exe
+D:\Tcm edição\Photoshop\Exercicios visual studio\Exfatorial\Exfatorial\obj\Debug\Exfatorial.pdb
